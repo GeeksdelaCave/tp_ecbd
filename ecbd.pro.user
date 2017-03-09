@@ -1,0 +1,12 @@
+QT += widgets
+
+LIBS += static
+
+SOURCES += \
+    main.cpp \
+    pfenetre.cpp \
+    charger_csv.cpp
+
+HEADERS += \
+    pfenetre.h \
+    charger_csv.h
